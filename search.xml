@@ -3,6 +3,32 @@
   
     
     <entry>
+      <title><![CDATA[hexo所做操作]]></title>
+      <url>/2020/07/21/hexo%E6%89%80%E5%81%9A%E6%93%8D%E4%BD%9C/</url>
+      <content type="html"><![CDATA[<h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><blockquote>
+<p>下载主题包 <a href="http://litten.me/2014/08/31/hexo-theme-yilia/" target="_blank" rel="noopener">http://litten.me/2014/08/31/hexo-theme-yilia/</a></p>
+</blockquote>
+<h2 id="二"><a href="#二" class="headerlink" title="二"></a>二</h2><blockquote>
+<p>按照 <a href="http://litten.me/2014/08/31/hexo-theme-yilia/" target="_blank" rel="noopener">http://litten.me/2014/08/31/hexo-theme-yilia/</a> 该博客里面的文章进行操作，就可以完成大部分配置</p>
+</blockquote>
+<h2 id="三"><a href="#三" class="headerlink" title="三"></a>三</h2><blockquote>
+<p>然后根据自己的需要，再配置文件中关闭各种标签，比如说“友链”，比如说知乎，比如说git</p>
+</blockquote>
+<h2 id="四"><a href="#四" class="headerlink" title="四"></a>四</h2><blockquote>
+<p>不要忘了下载一个模块包 <a href="mailto:hexo-generator-json-content@4.2.3">hexo-generator-json-content@4.2.3</a> 这个包，到时候搜一下npm指令</p>
+</blockquote>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> wj </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hello World]]></title>
       <url>/2020/07/10/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
